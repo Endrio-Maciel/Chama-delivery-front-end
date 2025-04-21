@@ -1,4 +1,4 @@
-import { env } from "@/src/env/env"
+import { env } from "@/env/env"
 import NextAuth, { NextAuthOptions } from "next-auth"
 import GoogleProvider from "next-auth/providers/google"
 
